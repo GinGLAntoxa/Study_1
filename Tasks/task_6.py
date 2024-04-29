@@ -32,7 +32,6 @@ point5 = "Ж, З, Х, Ц, Ч, K"
 point8 = "Ш, Э, Ю, J, X"
 point10 = "Ф, Щ, Ъ, Q, Z"
 
-
 res = 0
 i = 0
 while i < len(k):
